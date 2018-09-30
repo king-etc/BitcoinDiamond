@@ -22,7 +22,7 @@ packages:
 - "ca-certificates"
 - "python"
 remotes:
-- "url": "https://github.com/eveybcd/BitcoinDiamond.git"
+- "url": "https://github.com/king-etc/BitcoinDiamond.git"
   "dir": "bitcoin"
 files: []
 script: |
